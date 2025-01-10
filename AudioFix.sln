@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.35326.199
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioFix", "AudioFix\AudioFix.csproj", "{F716FA24-4865-454E-98FF-BF9447D8FD32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F716FA24-4865-454E-98FF-BF9447D8FD32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F716FA24-4865-454E-98FF-BF9447D8FD32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F716FA24-4865-454E-98FF-BF9447D8FD32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F716FA24-4865-454E-98FF-BF9447D8FD32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A567CA5C-73D6-45DC-B162-7056A91B5A1D}
+	EndGlobalSection
+EndGlobal

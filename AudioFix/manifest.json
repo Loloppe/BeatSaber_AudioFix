@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "AudioFix",
+  "name": "AudioFix",
+  "author": "Loloppe",
+  "version": "0.0.1",
+  "description": "",
+  "gameVersion": "1.40.0",
+  "dependsOn": {
+    "BSIPA": "^4.2.0",
+    "BeatSaberMarkupLanguage": "^1.12.0"
+  }
+}
